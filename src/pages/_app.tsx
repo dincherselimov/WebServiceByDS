@@ -4,6 +4,7 @@ import '@/styles/footer.css'
 import '@/styles/intro.css'
 import '@/styles/navbar.css'
 import '@/styles/videopart.css'
+import '@/styles/who.css'
 export default function App({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
 }
